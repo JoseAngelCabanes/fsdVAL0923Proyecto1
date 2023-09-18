@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+
+.container-fluid{
+    width: 100vw;
+    height: 10vh;
+}
+
+.containerCOLUMN{
+    margin: 5em;
+    padding: auto;
+    display: flex;
+}
+
+.titulo{
+    color: yellow;
+  
+}
+
+.formularioContacto{
+   
+    padding-top: 5em;
+}
+
+
+.navbar{
+    background-color: black;
+}
+
+#textoPromo{
+    padding-top: 2em;
+}
+
+img{
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+  }
+
+#imagenPromo{
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#textoPromo{
+    color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#joanPROMO{
+    width: auto;
+    height: auto;
+}
+
+.h-10{
+
+    height: 10vh;
+
+}
+
+.h-35{
+
+    height: 35vh;
+
+}
+.h-55{
+
+    height: 55vh;
+
+}
+.h-70{
+
+    height: 70vh;
+
+}
+.h-60{
+
+    height: 60vh;
+
+}
+.h-80{
+
+    height: 80vh;
+
+}
+.h-110{
+
+    height: 110vh;
+
+}
+
+.background-blue{
+
+    background-color: blue;
+}
+.background-yellow{
+
+    background-color: yellow;
+}
+.background-black{
+
+    background-color: rgb(24, 23, 23);
+}
+.background-red{
+
+    background-color: red;
+}
+.background-grey{
+
+    background-color: rgb(92, 92, 92);
+}
+.background-white{
+
+    background-color: white;
+}
