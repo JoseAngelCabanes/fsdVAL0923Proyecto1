@@ -11,8 +11,6 @@ Bienvenido a Gold's Burger, tu restaurante de hamburguesas inspirado en los cult
 
 - **Accesibilidad en Línea**: Puedes explorar nuestro menú, consultar nuestra ubicación y formulario para poneros en contacto con nosotros.
 
-- **Información Nutricional**: Proporcionamos información detallada sobre el contenido nutricional de cada hamburguesa, para que puedas tomar decisiones informadas sobre tu comida.
-
 - **Historia de los Culturistas**: Descubre datos interesantes sobre los culturistas famosos que inspiraron nuestras hamburguesas y conoce sus logros en el mundo del culturismo.
 
 ## Uso
@@ -34,6 +32,8 @@ Bienvenido a Gold's Burger, tu restaurante de hamburguesas inspirado en los cult
 - **Fallo del responsive**: La intención era hacerlo 100% responsive con cualquier dispositivo pero en los últimos cambios se han descuadrado y no he podido volver a cuadrarlo.
 
 - **Fallo con declaraciones en .css**: El archivo .css no está todo lo correcto que debería ya que el orden de declaraciones puede ser confuso y hay algunas declaradas que no se están usando finalmente.
+
+- **Información Nutricional**: Era un punto que me habría gustado abarcar: "Proporcionamos información detallada sobre el contenido nutricional de cada hamburguesa, para que puedas tomar decisiones informadas sobre tu comida."
 
 ## Contribuciones
 
