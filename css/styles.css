@@ -5,5 +5,52 @@ body{
 
 .container-fluid{
 
-    height: 100vh;
+    height: 200vh;
+}
+
+.h-10{
+
+    height: 10vh;
+
+}
+.h-35{
+
+    height: 35vh;
+
+}
+.h-55{
+
+    height: 55vh;
+
+}
+.h-70{
+
+    height: 70vh;
+
+}
+.h-80{
+
+    height: 80vh;
+
+}
+
+.background-blue{
+
+    background-color: blue;
+}
+.background-yellow{
+
+    background-color: yellow;
+}
+.background-blue{
+
+    background-color: blue;
+}
+.background-blue{
+
+    background-color: blue;
+}
+.background-blue{
+
+    background-color: blue;
 }
