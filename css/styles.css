@@ -2,12 +2,31 @@ body{
     overflow-x: hidden;
     margin: 0;
     padding: 0;
+    background-color: grey;
 }
 
 
 .container-fluid{
     width: 100vw;
-    height: 185vh;
+    height: 100vh;
+}
+
+.contact .info-item {
+    background: #f4f4f4;
+    padding: 3em;
+    height: 100%;
+}
+
+.form-group {
+    padding-bottom: 2em;
+    padding-top: 2em;
+}
+
+.contact .info-item p {
+    padding: 0;
+    margin: 0;
+    line-height: 2em;
+    font-size: 1em;
 }
 
 .containerCOLUMN{
@@ -22,9 +41,9 @@ body{
 }
 
 .formularioContacto{
-   
     padding-top: 5em;
 }
+
 
 
 .navbar{
@@ -39,6 +58,8 @@ img{
     object-fit: cover;
     width: 100%;
     height: 100%;
+    padding-top: 1em;
+    padding-bottom: 1em;
   }
 
 #imagenPromo{
