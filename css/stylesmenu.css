@@ -4,10 +4,14 @@ body{
     overflow-x: hidden;
 }
 
+.row{
+    --bs-gutter-x: 0rem;
+}
 
 .container-fluid{
     width: 100vw;
     height: 10vh;
+    --bs-gutter-x: 0rem;
 }
 
 .containerCOLUMN{
